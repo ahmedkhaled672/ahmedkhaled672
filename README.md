@@ -1,14 +1,4 @@
-تجاوز إلى المحتوى
-سجل الدردشة
 
-أنت قلت:
-انا احمد خالد مبرمج فلاتر وصانع محتوى على اليوتيوبReadme عاوز اعمل جت هبreadme هبعتلك معينه وانت تغير عليها بالنسبه لحاجتي انا
-قال ChatGPT:
-تمام يا أحمد، ابعَتلي النص اللي عايز تعدله وأنا هظبطه لك بحيث يكون مناسب كـ GitHub README خاص بيك، ويعكس إنك مبرمج Flutter وصانع محتوى على اليوتيوب.
-
-هل تحب كمان أضيف تصميم جذاب للـ README مثل أيقونات، روابط لقناتك، وروابط لمشاريعك؟
-
-أنت قلت:
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
